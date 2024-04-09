@@ -7,6 +7,8 @@ This project was bootstrapped with [Blog-Web-App](https://github.com/facebook/cr
 
 In the project directory, you can run:
 
+### Update your Firebase config here: src/firebaseconfig
+
 ### `yarn start`
 
 Runs the app in the development mode.\
